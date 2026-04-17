@@ -40,17 +40,15 @@ Berikut adalah beberapa tampilan dari halaman website:
 ### 📰 Halaman Artikel 1
 ![Halaman Artikel 1](https://drive.google.com/uc?export=view&id=1iSJq4nIkkZi2oUic68F34kOmagoRWI0i)
 
-https://drive.google.com/uc?export=view&id=1iSJq4nIkkZi2oUic68F34kOmagoRWI0i
-
 ---
 
 ### ℹ️ Halaman Info
-https://drive.google.com/uc?export=view&id=1hwMu2yBXhO8O7DYsjNOgoIyZqitp6gj1
+![Halaman Info](https://drive.google.com/uc?export=view&id=1hwMu2yBXhO8O7DYsjNOgoIyZqitp6gj1)
 
 ---
 
 ### 🏠 Halaman Utama
-https://drive.google.com/uc?export=view&id=1brFtHj0MnkZ2i_aAhPmBEiby7IjA4Js6
+![Halaman Utama](https://drive.google.com/uc?export=view&id=1brFtHj0MnkZ2i_aAhPmBEiby7IjA4Js6)
 
 ---
 
@@ -59,14 +57,12 @@ https://drive.google.com/uc?export=view&id=1brFtHj0MnkZ2i_aAhPmBEiby7IjA4Js6
 
 1. Clone repository ini
 ````markdown
-   ```bash
    git clone https://github.com/christianxavier25/PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END.git
 ````
 
 2. Masuk ke folder project
 ````markdown
-   ```bash
-   cd PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END/app
+   cd PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END
    ```
 ````
 
@@ -79,7 +75,8 @@ https://drive.google.com/uc?export=view&id=1brFtHj0MnkZ2i_aAhPmBEiby7IjA4Js6
 Berikut struktur folder utama dari project website artikel ini:
 
 ```
-index.html
+index.html => entry Point
+
 app/
 │
 ├── Halaman_Utama.html
@@ -88,9 +85,14 @@ app/
 ├── Halaman_Artikel3.html
 ├── Halaman_Info.html
 │
-├── css/
-├── js/
-└── assets/
+├── css/style.css
+└── js/script.js
+
+assets/img/
+       │
+       ├──img1.png
+       ├──img2.png
+       └──img3.png
 ```
 
 ---
