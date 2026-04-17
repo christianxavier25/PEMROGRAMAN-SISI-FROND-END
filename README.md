@@ -1,5 +1,4 @@
-# Tugas Pertemuan 4
-# 📚 Website Artikel Sederhana — HTML, CSS, JavaScript
+# 📚 Tugas Pertemuan 4 - Website Artikel Sederhana — HTML, CSS, JavaScript
 
 Website ini merupakan proyek praktikum pemrograman sisi *front-end* yang dibangun menggunakan teknologi dasar web yaitu **HTML**, **CSS**, dan **JavaScript** tanpa framework tambahan.
 
@@ -63,7 +62,6 @@ Berikut adalah beberapa tampilan dari halaman website:
 2. Masuk ke folder project
 ````markdown
    cd PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END
-   ```
 ````
 
 3. Buka file `index.html` menggunakan browser favorit Anda.
@@ -90,6 +88,7 @@ app/
 
 assets/img/
        │
+       ├──logo.avif
        ├──img1.png
        ├──img2.png
        └──img3.png
