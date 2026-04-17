@@ -38,6 +38,8 @@ Website dapat diakses melalui GitHub Pages pada alamat berikut:
 Berikut adalah beberapa tampilan dari halaman website:
 
 ### 📰 Halaman Artikel 1
+![Halaman Artikel 1](https://drive.google.com/uc?export=view&id=1iSJq4nIkkZi2oUic68F34kOmagoRWI0i)
+
 https://drive.google.com/uc?export=view&id=1iSJq4nIkkZi2oUic68F34kOmagoRWI0i
 
 ---
@@ -52,20 +54,21 @@ https://drive.google.com/uc?export=view&id=1brFtHj0MnkZ2i_aAhPmBEiby7IjA4Js6
 
 ---
 
-````markdown
+
 ## 🚀 Cara Menjalankan Project Secara Lokal
 
 1. Clone repository ini
-
+````markdown
    ```bash
    git clone https://github.com/christianxavier25/PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END.git
 ````
 
 2. Masuk ke folder project
-
+````markdown
    ```bash
    cd PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END/app
    ```
+````
 
 3. Buka file `index.html` menggunakan browser favorit Anda.
 
