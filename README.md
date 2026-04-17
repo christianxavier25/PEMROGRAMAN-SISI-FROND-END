@@ -1,3 +1,4 @@
+# Tugas Pertemuan 4
 # 📚 Website Artikel Sederhana — HTML, CSS, JavaScript
 
 Website ini merupakan proyek praktikum pemrograman sisi *front-end* yang dibangun menggunakan teknologi dasar web yaitu **HTML**, **CSS**, dan **JavaScript** tanpa framework tambahan.
@@ -37,21 +38,44 @@ Website dapat diakses melalui GitHub Pages pada alamat berikut:
 Berikut adalah beberapa tampilan dari halaman website:
 
 ### 📰 Halaman Artikel 1
-https://drive.google.com/file/d/1iSJq4nIkkZi2oUic68F34kOmagoRWI0i/view?usp=drive_link
+https://drive.google.com/uc?export=view&id=1iSJq4nIkkZi2oUic68F34kOmagoRWI0i
 
 ---
 
 ### ℹ️ Halaman Info
-https://drive.google.com/file/d/1hwMu2yBXhO8O7DYsjNOgoIyZqitp6gj1/view?usp=drive_link
+https://drive.google.com/uc?export=view&id=1hwMu2yBXhO8O7DYsjNOgoIyZqitp6gj1
 
 ---
 
 ### 🏠 Halaman Utama
-https://drive.google.com/file/d/1brFtHj0MnkZ2i_aAhPmBEiby7IjA4Js6/view?usp=drive_link
+https://drive.google.com/uc?export=view&id=1brFtHj0MnkZ2i_aAhPmBEiby7IjA4Js6
 
 ---
 
-## 📁 Struktur Folder Sederhana
+````markdown
+## 🚀 Cara Menjalankan Project Secara Lokal
+
+1. Clone repository ini
+
+   ```bash
+   git clone https://github.com/christianxavier25/PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END.git
+````
+
+2. Masuk ke folder project
+
+   ```bash
+   cd PRAKTIKUM-PEMROGRAMAN-SISI-FROND-END/app
+   ```
+
+3. Buka file `index.html` menggunakan browser favorit Anda.
+
+---
+
+## 📁 Struktur Folder Project
+
+Berikut struktur folder utama dari project website artikel ini:
+
+```
 index.html
 app/
 │
@@ -61,6 +85,9 @@ app/
 ├── Halaman_Artikel3.html
 ├── Halaman_Info.html
 │
-├── css/style.css
-├── js/script.js
-└── assets/img/....
+├── css/
+├── js/
+└── assets/
+```
+
+---
